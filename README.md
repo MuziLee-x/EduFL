@@ -1,5 +1,6 @@
 # EduFL
 
-This is our implementation for paper 'EduFL'. The released code is for review.
+This is our implementation for manuscript 'EduFL'. 
+The released code is for review.
 
 
